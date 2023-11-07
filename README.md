@@ -1,1 +1,2 @@
-# Data_structure-jenny_practical
+# Data_Structures_and_Algorithms
+
